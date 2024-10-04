@@ -1,4 +1,3 @@
 git+https://github.com/3b1b/manim.git
 numpy
 matplotlib
-manim
